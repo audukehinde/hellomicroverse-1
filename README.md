@@ -1,8 +1,8 @@
 # HELLO MICROVERSE
 ---
-This is my first Microverse project that helps me understand how use GitHub flow, Linters and gitignore.
+This is my first Microverse project that helps me understand how to use GitHub flow, Linters and gitignore.
 
-![project image](img/hello.png)
+![project image](https://github.com/audukehinde/hellomicroverse-1/blob/feature/img/hello.PNG)
 
 ### Built With
 ---
@@ -11,7 +11,7 @@ This is my first Microverse project that helps me understand how use GitHub flow
 
 ### Live Demo
 ---
-(https://audukehinde.github.io/hellomicroverse-1/)
+https://audukehinde.github.io/hellomicroverse-1/
 
 ### Getting Started
 ---
@@ -30,8 +30,8 @@ To get a local copy up and running follow these simple steps.
 ### Author
 ---
 Kehinde Audu
-* GitHub: (https://github.com/audukehinde/)
-* Linkedin (https://www.linkedin.com/in/kehinde-audu-a44926175/)
+* GitHub: https://github.com/audukehinde/
+* Linkedin: https://www.linkedin.com/in/kehinde-audu-a44926175/
 
 ### Show your support
 Give a star if you like this project
